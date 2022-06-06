@@ -1,6 +1,6 @@
 # xordbs😎
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxordbs&count_bg=%23D5A740&title_bg=%23555555&icon=github.svg&icon_color=%23F1ECEC&title=hits&edge_flat=false)](https://github.com/xordbs)
-[![이력서](https://img.shields.io/badge/Portfolio-6D4C9F?style=flat&logo=GoogleDrive&logoColor=white)](https://drive.google.com/drive/folders/1NydgVyDwM-RmhTYtJj68zjgUy5O_jjEH)
+[![이력서](https://img.shields.io/badge/Portfolio-6D4C9F?style=flat&logo=GoogleDrive&logoColor=white)](https://drive.google.com/file/d/1d8FvXSAaYwzAANIvBQPuhxJSBhGmmqKJ/view?usp=sharing)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:xoem00@gmail.com)
 
 ### Who Am I
