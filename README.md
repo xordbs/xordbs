@@ -1,8 +1,8 @@
-# xordbs😎
+# xordbs
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxordbs&count_bg=%23D5A740&title_bg=%23555555&icon=github.svg&icon_color=%23F1ECEC&title=hits&edge_flat=false)](https://github.com/xordbs)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:xoem00@gmail.com)
 
-### Who Am I
+### Who Am I. 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xordbs">  
 
 - 🌱 I’m currently learning Java, Node, React, Algorithm
@@ -20,7 +20,7 @@
 
 
 ### What I Like
-- 📷 camara. 
-- ⌨️ keyboard. 
-- 🚶🏻 walk. 
+- 📷 camara..
+- ⌨️ keyboard..
+- 🚶🏻 walk..
 
