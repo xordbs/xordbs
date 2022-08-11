@@ -20,7 +20,7 @@
 
 
 ### What I Like
-- 📷 camara..
-- ⌨️ keyboard..
-- 🚶🏻 walk..
+- 📷 camara
+- ⌨️ keyboard
+- 🚶🏻 walk
 
