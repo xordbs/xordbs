@@ -15,7 +15,7 @@
 - 🎓 Hannam University, ICE(2014.03~ 2021.02)
 - 💊 Sundosoft, GIS data Team(2020.08 ~ 2021.02)
 - 📖 Samsung Software Academy 6th(2021.07 ~ 2022.06)
-- 🏢 Samsung Software Academy 7th coach(2022.07 ~   )
+- 🏢 Samsung Software Academy 7th coach(2022.07 ~   2022.11)
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=xordbs" height="170">
 
 
